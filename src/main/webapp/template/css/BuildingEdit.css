@@ -1,0 +1,8 @@
+#building-edit .form-horizontal .control-label {
+	text-align: left;
+	padding-left: 70px;
+}
+
+#building-edit .form-control {
+	width: 80%;
+}
